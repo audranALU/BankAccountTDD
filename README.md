@@ -1,6 +1,6 @@
 # BankAccount — TDD with NUnit
 
-ALU Week 9, Session 1 — Individual Activity.
+Individual Activity.
 
 ## Requirements
 - .NET 8 SDK
